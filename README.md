@@ -1,4 +1,4 @@
-# midjourney_flutter_app
+# AI Image Generator App Using Flutter and Midjourney Image API
 
 A new Flutter project.
 
